@@ -57,15 +57,61 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 ---
 
-## 💼 Leadership Experience
+## � Certifications
 
 <div align="center">
 
-### 🏆 Team Leader Roles
+| Certificate | Issuing Organization | Year |
+|------------|---------------------|------|
+| 🎓 **Information Technology Institute (ITI)** | ITI - Port Said Branch | 2024 |
+| 🚀 **Digital Egypt Pioneers Initiative (DEPI)** | Ministry of Communications (MCIT) | 2024 |
+| 📋 **Employment Skills Certificate (EST)** | EST Program | 2024 |
+| 🥽 **Virtual Reality Summer Training** | VR Technologies & Development | 2024 |
 
-- 🎓 **Faculty Graduation Project** (Computer Science & AI)
-- 🚀 **Digital Egypt Pioneers Initiative (DEPI)** Project
-- 💻 **Information Technology Institute (ITI)** Project
+</div>
+
+---
+
+## � Soft Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/leadership.png" width="50"/><br>
+<b>Team Leadership</b><br>
+<sub>Proven ability to lead and manage development teams effectively</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="50"/><br>
+<b>Communication Skills</b><br>
+<sub>Excellent verbal and written communication abilities</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/problem-solving.png" width="50"/><br>
+<b>Problem Solving</b><br>
+<sub>Strong analytical and troubleshooting capabilities</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/presentation.png" width="50"/><br>
+<b>Presentation Skills</b><br>
+<sub>Confident in delivering technical presentations</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/persuasion.png" width="50"/><br>
+<b>Persuasion & Influence</b><br>
+<sub>Ability to convince and influence stakeholders</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/><br>
+<b>Continuous Learning</b><br>
+<sub>Committed to ongoing self-development and growth</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
