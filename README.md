@@ -18,9 +18,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm **Amir Abdelhak**, a graduate of the **Faculty of Computer Science and Artificial Intelligence**, **Information Technology (IT)** specialization, class of **2024**. I'm deeply passionate about web development, especially using Microsoft technologies like **.NET**.
+I'm **Amir Abdelhak**, a graduate of **Damietta University**, **Faculty of Computer Science and Artificial Intelligence**, specializing in **Information Technology (IT)**, class of **2024**. I'm deeply passionate about web development, especially using Microsoft technologies like **.NET**.
 
-I have worked on numerous projects in this field and have been honored to receive two prestigious scholarships from the **Egyptian Ministry of Communications and Information Technology**.
+I have worked on numerous projects in this field and was honored to receive two prestigious scholarships from the **Egyptian Ministry of Communications and Information Technology**.
+
+I also served as the **team leader** for all the group projects I worked on, ensuring they were delivered with excellence. This role strengthened my sense of responsibility, leadership, and ability to guide a team toward a clear and shared goal.
+
+I'm committed to **continuous learning and self-development**, and I consider myself a persuasive communicator with strong presentation skills.
 
 <br clear="right"/>
 
@@ -57,63 +61,12 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 ---
 
-## � Certifications
+## 📜 Certifications
 
-<div align="center">
-
-| Certificate | Issuing Organization | Year |
-|------------|---------------------|------|
-| 🎓 **Information Technology Institute (ITI)** | ITI - Port Said Branch | 2024 |
-| 🚀 **Digital Egypt Pioneers Initiative (DEPI)** | Ministry of Communications (MCIT) | 2024 |
-| 📋 **Employment Skills Certificate (EST)** | EST Program | 2024 |
-| 🥽 **Virtual Reality Summer Training** | VR Technologies & Development | 2024 |
-
-</div>
-
----
-
-## � Soft Skills
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/leadership.png" width="50"/><br>
-<b>Team Leadership</b><br>
-<sub>Proven ability to lead and manage development teams effectively</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="50"/><br>
-<b>Communication Skills</b><br>
-<sub>Excellent verbal and written communication abilities</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/problem-solving.png" width="50"/><br>
-<b>Problem Solving</b><br>
-<sub>Strong analytical and troubleshooting capabilities</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/presentation.png" width="50"/><br>
-<b>Presentation Skills</b><br>
-<sub>Confident in delivering technical presentations</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/persuasion.png" width="50"/><br>
-<b>Persuasion & Influence</b><br>
-<sub>Ability to convince and influence stakeholders</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/><br>
-<b>Continuous Learning</b><br>
-<sub>Committed to ongoing self-development and growth</sub>
-</td>
-</tr>
-</table>
-
-</div>
+- 🎓 **Information Technology Institute (ITI)**
+- 🚀 **Digital Egypt Pioneers Initiative (DEPI)**
+- 📋 **Employment Skills Certificate (EST)**
+- 🥽 **Virtual Reality Summer Training** – Focused on VR technologies and development
 
 ---
 
@@ -153,7 +106,6 @@ I have worked on numerous projects in this field and have been honored to receiv
 ![ASP.NET API](https://img.shields.io/badge/ASP.NET%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-
 </details>
 
 <details open>
@@ -185,10 +137,7 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=amirabdelhak&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=amirabdelhak&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirabdelhak&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" width="400"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=amirabdelhak&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" height="200"/>
 
 </div>
 
