@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I'm Amir Abdelhak, a graduate of the Faculty of Computer Science and Artificial Intelligence, Information Technology (IT) specialization, class of 2024. I'm deeply passionate about web development, especially using Microsoft technologies like .NET.<br><br>I have worked on numerous projects in this field and have been honored to receive two prestigious scholarships from the Egyptian Ministry of Communications and Information Technology:<br><br>🎓 Internship Programs:<br><br>   - Intensive Training Program (ITP) - Jul 2024 - Nov 2024<br>     Information Technology Institute (ITI) - Port Said Branch<br>     .NET Full Stack Web Development<br><br>   - Digital Egypt Pioneers Initiative (DEPI) - Nov 2024 - May 2025<br>     .NET Full Stack Web Development<br><br>💼 Leadership Experience:<br><br>   - Team Leader for graduation project at the Faculty of Computer Science and Artificial Intelligence<br>   - Team Leader for Digital Egypt Pioneers Initiative (DEPI) project<br>   - Team Leader for Information Technology Institute (ITI) project<br><br>🎯 Current Goals:<br><br>I'm currently seeking opportunities to work on real-world projects at established companies where I can further develop my skills, contribute meaningful solutions, and grow professionally in a dynamic environment.
 
-<!--
-**amirabdelhak/amirabdelhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/amir.abdelhak.5?locale=ar_AR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amir.abdelhak.5/?fbclid=IwY2xjawOZK-JleHRuA2FlbQIxMABicmlkETF4U2NTMVpWVXQwc0p0Tjk3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm5Pa9xh5oWfLwIRL9AXhz2kCZklAZ8OB-22TzYRjCxfZKNOYHOyUlG1dPHe_aem_ocVjRsvBnio2nZRmvHh6ag#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-abdelhak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Amirabdelhak28@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amirabdelhak&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amirabdelhak&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirabdelhak&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=amirabdelhak&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
