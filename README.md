@@ -108,7 +108,7 @@ I have worked on numerous projects in this field and have been honored to receiv
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET API](https://img.shields.io/badge/ASP.NET%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+
 
 </details>
 
@@ -182,7 +182,7 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 ### 🌟 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=amirabdelhak&label=Profile%20Views&color=667eea&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=amirabdelhak&label=Profile%20Views&color=667eea&style=for-the-badge&icon=5)
 ![GitHub followers](https://img.shields.io/github/followers/amirabdelhak?style=for-the-badge&color=764ba2)
 ![GitHub Stars](https://img.shields.io/github/stars/amirabdelhak?style=for-the-badge&color=667eea)
 
