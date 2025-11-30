@@ -63,12 +63,11 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 <div align="center">
 
-```yaml
-🏆 Team Leader Roles:
-  ├─ Faculty Graduation Project (Computer Science & AI)
-  ├─ Digital Egypt Pioneers Initiative (DEPI) Project
-  └─ Information Technology Institute (ITI) Project
-```
+### 🏆 Team Leader Roles
+
+- 🎓 **Faculty Graduation Project** (Computer Science & AI)
+- 🚀 **Digital Egypt Pioneers Initiative (DEPI)** Project
+- 💻 **Information Technology Institute (ITI)** Project
 
 </div>
 
@@ -84,7 +83,7 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 ---
 
-## � Technical Skills
+## 💻 Technical Skills
 
 <details open>
 <summary><b>🔤 Languages & Web Technologies</b></summary>
@@ -161,33 +160,13 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirabdelhak&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9)](https://github.com/amirabdelhak)
-
-</div>
-
----
-
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### ✍️ Dev Joke of the Day
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
----
-
-### 🎵 Coding Vibes
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k56rhhkrr4aatjrqbuemkhdkqy&unique=true)
+> *"Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect."*
+> 
+> — Linus Torvalds
 
 ---
 
@@ -203,7 +182,7 @@ I have worked on numerous projects in this field and have been honored to receiv
 
 ### 🌟 Profile Stats
 
-![](https://komarev.com/ghpvc/?username=amirabdelhak&label=Profile%20Views&color=667eea&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=amirabdelhak&label=Profile%20Views&color=667eea&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/amirabdelhak?style=for-the-badge&color=764ba2)
 ![GitHub Stars](https://img.shields.io/github/stars/amirabdelhak?style=for-the-badge&color=667eea)
 
