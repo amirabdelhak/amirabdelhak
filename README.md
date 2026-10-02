@@ -64,7 +64,7 @@ I graduated from **Damietta University**, Faculty of Computer Science and Artifi
 <td width="50%" valign="top">
 
 ### 🔹 Intensive Training Program (ITP)
-**📅 Jul 2024 - Nov 2024**
+**📅 Jul 2025 - Nov 2025**
 
 - 📍 **Information Technology Institute (ITI)**
 - 🏢 Port Said Branch
