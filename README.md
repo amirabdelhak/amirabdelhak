@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Background with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Amir%20Abdelhak&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(.NET%20%26%20Angular)&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Amir%20Abdelhak&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20.NET%20and%20Angular&descAlignY=55&descAlign=50" width="100%"/>
 
 ### 💻 Architecting Scalable Enterprise Solutions & Robust Web Systems
 
@@ -29,7 +29,7 @@ I graduated from **Damietta University**, Faculty of Computer Science and Artifi
 - ⚡ Optimize database performance, complex queries, and data workflows with **SQL Server** and **EF Core**.
 
 🏆 **Highlights:**
-- Honored with two prestigious scholarships from the **Ministry of Communications (MCIT)**: **ITI (9-Month / ITP)** & **DEPI**.
+- Honored with two prestigious scholarships from the **Ministry of Communications (MCIT)**: **ITI** & **DEPI**.
 - Proven experience as a **Team Leader** across multiple end-to-end projects, emphasizing clean code, collaboration, and high delivery standards.
 
 <br clear="right"/>
