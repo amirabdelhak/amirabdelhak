@@ -137,17 +137,12 @@ I'm committed to **continuous learning and self-development**, and I consider my
 
 <div align="center">
   
-<img src="https://nirzak-streak-stats.vercel.app/?user=amirabdelhak&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" height="200"/>
+<img src="https://streak-stats.demolab.com/?user=amirabdelhak&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" height="180"/>
 
-</div>
+<br/><br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=amirabdelhak&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-readme-stats.vercel.app/api?username=amirabdelhak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="Amir's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirabdelhak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea" alt="Top Languages" height="165"/>
 
 </div>
 
